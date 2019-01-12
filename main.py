@@ -1,0 +1,3 @@
+import washerwatcher
+
+washerwatcher.run()

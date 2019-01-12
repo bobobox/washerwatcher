@@ -1,0 +1,14 @@
+{
+    "mqtt":
+        {
+            "key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "device_name": "laundry-esp8266",
+            "port": 8883,
+            "host": "io.adafruit.com",
+            "user": "XXXXXXX",
+            "ssl": true
+        },
+    "prowl":{
+        "key":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    }
+}
